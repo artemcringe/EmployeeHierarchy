@@ -1,0 +1,23 @@
+.wrap__username {
+  width: 100%;
+  position: relative;
+  background-color: #e6e6e6;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  margin-bottom: 16px;
+
+
+  .input__username {
+    color: #403866;
+    line-height: 1.2;
+    font-size: 24px;
+    display: block;
+    width: 100%;
+    background: 0 0;
+    height: 62px;
+    padding: 0 20px 0 38px;
+    outline: none;
+    border: none;
+    overflow: visible;
+  }
+}
